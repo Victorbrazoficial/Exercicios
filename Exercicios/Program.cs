@@ -12,4 +12,4 @@ using Exercicios.Iniciantes;
 var salario = new Salario();
 salario.EntradaDados();
 salario.Calcula(salario.HorasTrabalhadas, salario.SalarioHora);
-salario.Print();
+Console.WriteLine(salario.Print());

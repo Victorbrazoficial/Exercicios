@@ -30,9 +30,9 @@ namespace Exercicios.Iniciantes
             return SalarioFuncionario;
         }
 
-        public void Print()
+        public string Print()
         {
-           Console.WriteLine($"NUMBER = {IdFuncionario}\nSALARY = U$ {SalarioFuncionario.ToString("n2", new CultureInfo("en-USA"))}");
+           return $"NUMBER = {IdFuncionario}\nSALARY = U$ {SalarioFuncionario.ToString("n2", new CultureInfo("en-USA"))}";
         }
     }
 }
