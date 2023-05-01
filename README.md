@@ -24,18 +24,16 @@ Este projeto é focado na melhoria da minha lógica de programação, utilizando
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: .net 6.0
+- Pré-requisitos: 
+.net 6.0,
+Visual Studio
 
 ```bash
 # clonar repositório
 git clone https://github.com/Victorbrazoficial/Exercicios.git
 
-# entrar na pasta do projeto clonado
-cd "projeto clonado"
-
-# executar o projeto
-.net run
 ```
+- Biuldar aplicação.
 
 # Meu Linkedin
 
