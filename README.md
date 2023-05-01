@@ -28,7 +28,7 @@ Pré-requisitos: .net 6.0
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Victorbrazoficial/Exercicios.git
 
 # entrar na pasta do projeto clonado
 cd "projeto clonado"
